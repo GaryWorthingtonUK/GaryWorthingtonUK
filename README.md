@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GaryWorthingtonUK
 - 👀 I’m interested in Python, Flutter and AWS
 - 🌱 I’m currently learning all things AWS
-- 💞️ I’m looking to collaborate on nothing right now
+- 💞️ I’m looking to collaborate on stuff and things
 - 📫 How to reach me email gary@morethanmonkeys.co.uk
 
 <!---
